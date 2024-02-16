@@ -113,6 +113,8 @@ p,
     font-size: medium;
     text-align: left;
     padding-left: 40px;
+    margin-top: 4px;
+    margin-bottom: 4px;
 }
 
 .body-item {
